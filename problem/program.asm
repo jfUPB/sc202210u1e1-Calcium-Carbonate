@@ -1,6 +1,7 @@
-// COLOCO AQUÍ TU NOMBRE COMPLETO
-// COLOCA AQUÍ TU ID
-// COLOCA AQUÍ TU CORREO ELECTRÓNICO
+// Camilo Correa ROjas
+// 418856
+// camilo.correar@upb.edu.co
 (START)
     @START
+    //prueba
     0;JMP
